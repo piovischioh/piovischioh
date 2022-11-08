@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://hit.yhype.me/github/profile?user_id=20225561)
+![](https://komarev.com/ghpvc/?username=piovischioh&color=green&label=PROFILE+VIEWS)
 
 <!--
 **piovischioh/piovischioh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-### Hello, I'm Pio 👋
+## Hello, I'm Pio 👋
 
 👨🏻‍💻 Frontend Developer
 
@@ -22,7 +22,7 @@
   </a>
 </p>
 
-### Languages, Frameworks and Tools
+## Languages, Frameworks and Tools
 
 - JavaScript/TypeScript
 - React.js

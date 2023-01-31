@@ -13,7 +13,6 @@
 </p>
 
 - 🔭 I’m currently open to new job opportunities.
-- 🌱 I’m currently learning/interested in Rust and Svelte.
 - 📫 Reach me: piovischioh@gmail.com
 
 <p>
